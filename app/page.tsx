@@ -36,7 +36,7 @@ export default function Home() {
       <nav id="nav">
         <div className="nav-inner">
           <a href="#" className="logo">
-            <img src="/icon.svg" alt="MaintainMe" className="logo-icon-img" />
+            <img src="/icon.png" alt="MaintainMe" className="logo-icon-img" />
             <span className="logo-text">MaintainMe</span>
           </a>
           <ul className="nav-links">
